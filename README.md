@@ -1,6 +1,6 @@
 # 🛡️ My Cybersecurity Journey
 
-Welcome to my profile! I am an 11th-grade student preparing for university and a career in Cybersecurity. My goal is to earn a 100% grant at New Uzbekistan University.
+Welcome to my profile! I am an 11th-grade student preparing for university and a career in Cybersecurity.
 
 ## 🚀 TryHackMe Progress
 I am actively solving rooms on TryHackMe to gain practical skills.
