@@ -15,3 +15,5 @@ I am actively solving rooms on TryHackMe to gain practical skills.
 
 ---
 *Follow my journey as I build my skills in Cyber Security!*
+## 🛠️ My Projects
+- [Caesar Cipher Tool](caesar_cipher.py) - My first Python script for basic encryption.
